@@ -1,2 +1,6 @@
 # Generate-Random-Numbers
-Q1 Uniform Random Number
+Uniform Random Number
+Bernoulli Random Number
+Binomial Random Number
+Exponential Random Number
+Normal Random Number
